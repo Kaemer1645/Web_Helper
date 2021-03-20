@@ -1,6 +1,7 @@
 # Web_Helper
-Aplikacja do internetowego pomagania za pomocą Python oraz SQL
-Dla tego programu został stworzony poradnik na YouTube znajdujący się pod linkiem:
+App for on-line helping, based on Python and SQL
 
-Zadaniem Web_Helper jest otwieranie stron charytatywnych wprowadzonych do bazy danych za pomocą przeglądarki.
+For this project I create a tutorial on YouTube (below is link to polish version):
+https://youtu.be/Db01Bbd1Wk4
 
+Web_Helper open charity websites which was added to data base.
